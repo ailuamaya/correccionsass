@@ -1,0 +1,23 @@
+header{
+    nav{
+        background-color: rgb(235, 235, 154);
+        color:$tutulochico;
+        .container{
+            a{
+                text-decoration: none;
+                &:hover{
+                    text-decoration: underline;
+                }
+
+            }
+        }
+
+       
+    }
+   h1{
+      font-family: 'Permanent Marker', cursive;
+      text-align: center;
+      color: $titulogrande;
+    }
+
+}
